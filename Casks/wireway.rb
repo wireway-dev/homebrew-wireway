@@ -1,6 +1,6 @@
 cask "wireway" do
-  version "1.1.6"
-  sha256 "baf04c1b54f968331096712f9a79a6ee804217b9d177274a7cc76c0c1aa87f35"
+  version "1.3.0"
+  sha256 "cb049795f43eb04ac0621b8c1016f876724917a3ac8e2db4cca7e1890d7a2c70"
 
   url "https://github.com/wireway-dev/wireway/releases/download/v#{version}/Wireway-#{version}-macos-arm64.dmg"
   name "Wireway"
